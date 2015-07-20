@@ -1,0 +1,19 @@
+{
+    "name": "tombzombie/Dice-Interop",
+    "description": "Container-interop support for Dice ",
+    "license": "BSD-2-Clause",
+    "keywords": ["Container interop", "dice interop"],
+    "authors": [
+    	{
+    		"name": "Tom Butler",
+    		"email": "tom@r.je"
+    	}
+    ],
+    "require": {
+        "tombzombie/dice": ">1.0",
+        "container-interop/container-interop" : "~1.0"
+    },
+    "autoload": {
+    	"classmap": ["Interop.php"]
+    }
+}
