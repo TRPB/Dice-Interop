@@ -1,5 +1,5 @@
 {
-    "name": "tombzombie/Dice-Interop",
+    "name": "tombzombie/dice-interop",
     "description": "Container-interop support for Dice ",
     "license": "BSD-2-Clause",
     "keywords": ["Container interop", "dice interop"],
