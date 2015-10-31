@@ -10,7 +10,7 @@
     	}
     ],
     "require": {
-        "tombzombie/dice": ">1.0",
+        "level-2/dice": ">1.0",
         "container-interop/container-interop" : "~1.0"
     },
     "autoload": {
